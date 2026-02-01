@@ -33,7 +33,7 @@ The layout adapts smoothly across screen sizes using CSS Grid and custom propert
 
 ### 🔗 Links
 
-- 💡 Solution URL: [Frontend Mentor Submission](https://www.frontendmentor.io/solutions/four-card-feature-section-with-css-and-tailwindcss-DoEtEmeepy)
+- 💡 Solution URL: [Frontend Mentor Submission](https://www.frontendmentor.io/solutions/testimonial-grid-section-with-css-Wz0V818HmW)
 - 🌐 Live Site URL: [Live Demo](https://thewizard04-testimonial-grid.vercel.app)
 
 ---
